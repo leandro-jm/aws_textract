@@ -1,0 +1,15 @@
+{
+  "name": "aws_textract",
+  "version": "1.0.0",
+  "description": "Demo AWS Texttract",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leandro Martins",
+  "license": "ISC"
+}
